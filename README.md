@@ -63,8 +63,6 @@
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
 <div align="center">
   <table>
     <tr>
