@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">🕶️ Veil</h1>
 <p align="center">
   <strong>Anonymous Social App – Built with Flutter & Supabase</strong>
@@ -169,4 +168,4 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 <p align="center">
   Made with ❤️ and ☕️
 </p>
-```
+
