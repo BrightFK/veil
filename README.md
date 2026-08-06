@@ -6,11 +6,9 @@
 <p align="center">
   <a href="#-features">Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-screenshots">Screenshots</a> •
   <a href="#-getting-started">Getting Started</a> •
   <a href="#-environment-variables">Environment Variables</a> •
   <a href="#-contributing">Contributing</a> •
-  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -18,7 +16,6 @@
   <img src="https://img.shields.io/badge/Supabase-2.14.0-green?style=flat-square&logo=supabase" alt="Supabase" />
   <img src="https://img.shields.io/badge/Riverpod-2.5.0-purple?style=flat-square" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Dart-3.6.0-blue?style=flat-square&logo=dart" alt="Dart" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT License" />
 </p>
 
 ---
@@ -34,8 +31,6 @@
 ### 🔐 Authentication
 - Email/Password sign‑up with **OTP verification**
 - Secure session management with automatic token refresh
-- Password reset via email recovery links
-- Google Sign‑In integration (optional)
 
 ### 👤 User Experience
 - **Glass‑morphism UI** with dark theme for visual comfort
@@ -63,14 +58,66 @@
 | **Supabase** | Backend (Auth, Database, Storage, Realtime) |
 | **Riverpod** | State management |
 | **GoRouter** | Navigation & routing |
-| **AppLinks** | Deep linking for password reset flow |
-| **Flutter Launcher Icons** | App icon generation |
 
 ---
 
 ## 📱 Screenshots
 
-> *Coming soon – showcase your app's UI here.*
+## 📱 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035156.jpg" width="250" alt="Login Screen" />
+        <br />
+        <sub><b>Login Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035205.jpg" width="250" alt="Sign Up Screen" />
+        <br />
+        <sub><b>Sign Up Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035515.jpg" width="250" alt="OTP Verification" />
+        <br />
+        <sub><b>OTP Verification</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035526.jpg" width="250" alt="Main Feed" />
+        <br />
+        <sub><b>Main Feed</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035533.jpg" width="250" alt="Profile Screen" />
+        <br />
+        <sub><b>Profile Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035544.jpg" width="250" alt="Forgot Password" />
+        <br />
+        <sub><b>Forgot Password</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260806_035550.jpg" width="250" alt="Settings Screen" />
+        <br />
+        <sub><b>Settings Screen</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎥 Key Flows
+
+| Login to App | Sign Up with OTP | Email Verification |
+|--------------|------------------|---------------------|
+| <img src="screenshots/Screenshot_20260806_035156.jpg" width="200" /> | <img src="screenshots/Screenshot_20260806_035205.jpg" width="200" /> | <img src="screenshots/Screenshot_20260806_035515.jpg" width="200" /> |
 
 ---
 
