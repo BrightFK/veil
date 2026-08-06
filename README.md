@@ -81,31 +81,31 @@
       <td align="center">
         <img src="screenshots/Screenshot_20260806_035515.jpg" width="250" alt="OTP Verification" />
         <br />
-        <sub><b>OTP Verification</b></sub>
+        <sub><b>Main Feed</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="screenshots/Screenshot_20260806_035526.jpg" width="250" alt="Main Feed" />
         <br />
-        <sub><b>Main Feed</b></sub>
+        <sub><b>Explore Screen</b></sub>
       </td>
       <td align="center">
         <img src="screenshots/Screenshot_20260806_035533.jpg" width="250" alt="Profile Screen" />
         <br />
-        <sub><b>Profile Screen</b></sub>
+        <sub><b>Create Post Screen</b></sub>
       </td>
       <td align="center">
         <img src="screenshots/Screenshot_20260806_035544.jpg" width="250" alt="Forgot Password" />
         <br />
-        <sub><b>Forgot Password</b></sub>
+        <sub><b>Echoes Screen</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="screenshots/Screenshot_20260806_035550.jpg" width="250" alt="Settings Screen" />
         <br />
-        <sub><b>Settings Screen</b></sub>
+        <sub><b>Profile Screen</b></sub>
       </td>
     </tr>
   </table>
