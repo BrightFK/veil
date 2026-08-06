@@ -111,13 +111,6 @@
 
 ---
 
-## 🎥 Key Flows
-
-| Login to App | Sign Up with OTP | Email Verification |
-|--------------|------------------|---------------------|
-| <img src="screenshots/Screenshot_20260806_035156.jpg" width="200" /> | <img src="screenshots/Screenshot_20260806_035205.jpg" width="200" /> | <img src="screenshots/Screenshot_20260806_035515.jpg" width="200" /> |
-
----
 
 ## 🚀 Getting Started
 
